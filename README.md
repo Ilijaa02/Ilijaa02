@@ -1,11 +1,58 @@
-AI-focused developer passionate about building intelligent systems and solving real-world problems with machine learning and computer vision.
+# 👋 Hi, I'm Ilija Nikolic
 
-Currently focused on:
-• Artificial Intelligence & Machine Learning
-• Computer Vision & Deep Learning
-• Model training, evaluation, and deployment
-• Backend development & API design
+🚀 AI-Focused Developer | Machine Learning & Computer Vision Enthusiast  
 
-Always learning, experimenting, and improving — turning data into practical solutions.
+I am primarily focused on Artificial Intelligence and building intelligent systems that solve real-world problems.
 
-Interested in AI research, real-world applications, and innovative tech projects.
+---
+
+## 🧠 About Me
+
+- 🎯 Strong focus on AI & Machine Learning
+- 👁️ Interested in Computer Vision and object detection systems
+- 📊 Passionate about data-driven development
+- 🛠️ Building practical AI applications
+- 📚 Constantly improving my knowledge in Deep Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- C
+- C++
+- C#
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### 🤖 AI & Data
+- Machine Learning
+- Computer Vision
+- Model Training & Evaluation
+- Data Processing
+
+### 🌐 Development
+- React
+- .NET
+- MongoDB
+
+---
+
+## 🔬 Current Focus
+
+- Training and optimizing object detection models
+- Building AI systems for product recognition and counting
+- Improving dataset quality and model accuracy
+- Exploring advanced neural network architectures
+
+---
+
+## 🎯 Career Goal
+
+To become a highly skilled AI Engineer and work on impactful AI-driven systems that bridge research and real-world applications.
+
+---
+
+⭐ Open to collaboration on AI, ML, and challenging software projects.
